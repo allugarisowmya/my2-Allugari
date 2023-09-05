@@ -39,3 +39,21 @@ With dramatic peaks and pristine lakes, Yellowstone National Park is an outdoor 
 
 > Be less curious about people and more curious about ideas.~*Marie Cueie*
 
+***
+
+# PHP Code Fencing
+> Automatic Copyright Year - Using PHP
+
+<https://stackoverflow.com/questions/61050683/automatic-copyright-year-using-php>
+
+```
+<?php function auto_copyright($year = 'auto'){ ?>
+   <?php if(intval($year) == 'auto'){ $year = date('Y'); } ?>
+   <?php if(intval($year) == date('Y')){ echo intval($year); } ?>
+   <?php if(intval($year) < date('Y')){ echo intval($year) . ' - ' . date('Y'); } ?>
+   <?php if(intval($year) > date('Y')){ echo date('Y'); } ?>
+<?php } ?>;
+```
+<https://css-tricks.com/snippets/php/automatic-copyright-year/>
+
+
