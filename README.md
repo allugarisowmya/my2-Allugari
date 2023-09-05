@@ -31,3 +31,11 @@ With dramatic peaks and pristine lakes, Yellowstone National Park is an outdoor 
 | batmanton | interest to play | 1 hour |
 | cricket | Interested to watch | 2 hours |
 | throwball | interested to play | 2 hours |
+
+***
+
+# Marie Curie quotes
+> One never notices what has been done; one can only see what remains to be done.~*Marie Curie*
+
+> Be less curious about people and more curious about ideas.~*Marie Cueie*
+
